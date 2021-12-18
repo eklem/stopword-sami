@@ -1,14 +1,14 @@
 # stopword-sami
 ## What
 Project to generate stopword lists for all the Sami languages:
+* [ ] Nordsamisk
+* [ ] Lulesamisk
+* [ ] Sørsamisk
 * [ ] Kildinsamisk
 * [ ] Skoltesamisk/østsamisk
 * [ ] Enaresamisk
-* [ ] Nordsamisk
-* [ ] Lulesamisk
 * [ ] Pitesamisk
 * [ ] Umesamisk
-* [ ] Sørsamisk
 
 Northern Sami will most likely be the first.
 
