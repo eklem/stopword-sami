@@ -15,4 +15,4 @@ Northern Sami will most likely be the first.
 Help needed to [verify generated list](https://github.com/eklem/stopword-sami/issues/3) and help me [understand different traits of the different Sami languages](https://github.com/eklem/stopword-sami/issues/6).
 
 ## Why stopword lists for sami languages?
-To be able to create good search engines for content based on these languages.
+To i.e. be able to create good search engines and do machine learning based on content written in the different sami langauges.
