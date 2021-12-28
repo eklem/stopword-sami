@@ -1,21 +1,21 @@
 import { getList, readIfExists, calculateListAndWrite, fetchOptions } from 'nrk-sapmi-crawler'
 
 const southSami = {
-  id: 1.13572943,
+  id: '1.13572943',
   languageName: 'Åarjelsaemien',
   url: 'https://www.nrk.no/serum/api/content/json/1.13572943?v=2&limit=1000&context=items',
   file: './datasets/list.southSami.json'
 }
 
 const luleSami = {
-  id: 1.13572946,
+  id: '1.13572946',
   languageName: 'Julevsábmáj',
   url: 'https://www.nrk.no/serum/api/content/json/1.13572946?v=2&limit=1000&context=items',
   file: './datasets/list.luleSami.json'
 }
 
 const northSami = {
-  id: 1.13572949,
+  id: '1.13572949',
   languageName: 'Davvisámegillii',
   url: 'https://www.nrk.no/serum/api/content/json/1.13572949?v=2&limit=1000&context=items',
   file: './datasets/list.northSami.json'
