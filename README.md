@@ -10,7 +10,7 @@ WIP! Project to generate stopword lists for all the Sami languages:
 * [ ] Pitesamisk
 * [ ] Umesamisk
 
-Northern Sami will most likely be the first that reaches good quality. Then you'll have Lule Sami and South Sami.
+When the quality of the stopword lists are good enough they will be added to the [stopword](https://github.com/fergiemcdowall/stopword) module. Northern Sami will most likely be the first that reaches good enough quality. Then you'll have Lule Sami and South Sami.
 
 ## To crawl
 
