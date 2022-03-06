@@ -15,7 +15,7 @@
     "url": "git+https://github.com/eklem/stopword-sami.git"
   },
   "devDependencies": {
-    "nrk-sapmi-crawler": "^0.0.6"
+    "nrk-sapmi-crawler": "^0.0.8"
   },
   "keywords": [
     "nlp",

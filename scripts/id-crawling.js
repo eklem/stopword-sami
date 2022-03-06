@@ -1,4 +1,4 @@
-import { getList, readIfExists, calculateListAndWrite, fetchOptions } from 'nrk-sapmi-crawler'
+import { fetchIds, crawlHeaders, readIfExists, calculateListAndWrite } from 'nrk-sapmi-crawler'
 
 const southSami = {
   id: '1.13572943',
@@ -22,7 +22,7 @@ const northSami = {
 }
 
 // Fetch South Sami
-Promise.all([getList(southSami.url, fetchOptions), readIfExists(southSami.file).catch(e => e)])
+Promise.all([fetchIds(southSami.url, crawlHeaders), readIfExists(southSami.file).catch(e => e)])
   .then((data) => {
     calculateListAndWrite(data, southSami.id, southSami.file, southSami.languageName)
   })
@@ -31,7 +31,7 @@ Promise.all([getList(southSami.url, fetchOptions), readIfExists(southSami.file).
   })
 
 // Fetch Lule Sami
-Promise.all([getList(luleSami.url, fetchOptions), readIfExists(luleSami.file).catch(e => e)])
+Promise.all([fetchIds(luleSami.url, crawlHeaders), readIfExists(luleSami.file).catch(e => e)])
   .then((data) => {
     calculateListAndWrite(data, luleSami.id, luleSami.file, luleSami.languageName)
   })
@@ -40,7 +40,7 @@ Promise.all([getList(luleSami.url, fetchOptions), readIfExists(luleSami.file).ca
   })
 
 // Fetch North Sami
-Promise.all([getList(northSami.url, fetchOptions), readIfExists(northSami.file).catch(e => e)])
+Promise.all([fetchIds(northSami.url, crawlHeaders), readIfExists(northSami.file).catch(e => e)])
   .then((data) => {
     calculateListAndWrite(data, northSami.id, northSami.file, northSami.languageName)
   })
