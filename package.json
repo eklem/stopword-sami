@@ -31,5 +31,6 @@
   "bugs": {
     "url": "https://github.com/eklem/stopword-sami/issues"
   },
-  "homepage": "https://github.com/eklem/stopword-sami#readme"
+  "homepage": "https://github.com/eklem/stopword-sami#readme",
+  "main": "/datasets"
 }
