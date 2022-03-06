@@ -12,6 +12,13 @@ WIP! Project to generate stopword lists for all the Sami languages:
 
 When the quality of the stopword lists are good enough they will be added to the [stopword](https://github.com/fergiemcdowall/stopword) module. Northern Sami will most likely be the first that reaches good enough quality. Then you'll have Lule Sami and South Sami.
 
+## Install
+If you can avoid crawling and just use the content from this repo, that's good. That means less unnecessary trafick on nrk.no. Content is here and will be updated every month, or more often if you need it and published to npm.
+
+```console
+npm install stopword-sami
+```
+
 ## To crawl
 
 ### Array of IDs
