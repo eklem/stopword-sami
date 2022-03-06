@@ -20,15 +20,19 @@ npm install stopword-sami
 ```
 
 ## To crawl
+To get more content, you first have to get more IDs, so first the `crawlIds`-command, then the `crawlContent`-command.
 
-### Array of IDs
 ```console
+// Add more IDs
 npm run crawlIds
+
+// Crawl content when you have more IDs
+npm run crawlContent
 ```
 
 ### Array of content
 ```console
-npm run crawlContent
+
 ```
 
 ## Work ahead
