@@ -14,26 +14,28 @@ When the quality of the stopword lists are good enough they will be added to the
 
 ## To crawl
 
-### Lists of IDs
+### Array of IDs
 ```console
 npm run crawlIds
 ```
 
-## Work so far
-
-### Generating lists of IDs to crawl
-
-Using `nrk-sapmi-crawler` to crawl lists of documents to crawl. These documents will later be crawled and the text content will be the basis for ongoing stopword training. The more content, the better lists.
+### Array of content
+```console
+npm run crawlContent
+```
 
 ## Work ahead
 
-### Crawl content
+* [x] Generating lists of IDs to crawl
+  Using `nrk-sapmi-crawler` to crawl lists of documents to crawl. These documents will later be crawled and the text content will be the basis for ongoing stopword training. The more content, the better lists.
 
-When lists of enough content, and the nrk-sapmi-crawler also can crawl documents, crawl the actual documents
 
-### Start training stopword lists
 
-Run the `stopword-trainer` on the text that is crawled. From this we'll ask for help to manually verify the lists and also come with words to add to a red-list for each Sami language. The stopword lists are black-lists, words that you don't want. Every now and then, words you want sneak into a stopword list. Adding it to a red-list makes sure it won't end up in the finished stopword list.
+* [x] Crawl content
+  When lists of enough content, and the nrk-sapmi-crawler also can crawl documents, crawl the actual documents
+
+* [ ] Start training stopword lists
+  Run the `stopword-trainer` on the text that is crawled. From this we'll ask for help to manually verify the lists and also come with words to add to a red-list for each Sami language. The stopword lists are black-lists, words that you don't want. Every now and then, words you want sneak into a stopword list. Adding it to a red-list makes sure it won't end up in the finished stopword list.
 
 ### Help needed
 
