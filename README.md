@@ -23,7 +23,7 @@ npm install stopword-sami
 To get more content, you first have to get more IDs, so first the `crawlIds`-command, then the `crawlContent`-command and then the `calcStopwords`-command.
 
 ```console
-npm run crawlIds && npm run crawlContent && npm run crawlContent
+npm run crawlIds && npm run crawlContent && npm run calcStopwords
 ```
 
 ## Work ahead
