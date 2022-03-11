@@ -2,9 +2,8 @@
   "name": "stopword-sami",
   "version": "0.2.0",
   "description": "Sami stopword lists (South-, Lule- and North Sami) for natural language processing. Code to create and refine them. Examples usage could be search engines and machine learning.",
-  "type": "module",
   "directories": {
-    "lib": "lib"
+    "lib": "stopwords"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +15,9 @@
     "url": "git+https://github.com/eklem/stopword-sami.git"
   },
   "devDependencies": {
-    "nrk-sapmi-crawler": "^0.1.0"
+    "nrk-sapmi-crawler": "^0.1.0",
+    "words-n-numbers": "^7.1.0",
+    "stopword-trainer": "^1.0.2"
   },
   "keywords": [
     "nlp",
@@ -31,6 +32,5 @@
   "bugs": {
     "url": "https://github.com/eklem/stopword-sami/issues"
   },
-  "homepage": "https://github.com/eklem/stopword-sami#readme",
-  "main": "/datasets"
+  "homepage": "https://github.com/eklem/stopword-sami#readme"
 }
