@@ -19,11 +19,11 @@ If you can avoid crawling and just use the content from this repo, that's good. 
 npm install stopword-sami
 ```
 
-## To crawl
-To get more content, you first have to get more IDs, so first the `crawlIds`-command, then the `crawlContent`-command.
+## To crawl and calculate
+To get more content, you first have to get more IDs, so first the `crawlIds`-command, then the `crawlContent`-command and then the `calcStopwords`-command.
 
 ```console
-npm run crawlIds && npm run crawlContent
+npm run crawlIds && npm run crawlContent && npm run crawlContent
 ```
 
 ## Work ahead
@@ -36,8 +36,11 @@ npm run crawlIds && npm run crawlContent
 * [x] Crawl content
   When lists of enough content, and the nrk-sapmi-crawler also can crawl documents, crawl the actual documents
 
-* [ ] Start training stopword lists
+* [X] Start training stopword lists
   Run the `stopword-trainer` on the text that is crawled. From this we'll ask for help to manually verify the lists and also come with words to add to a red-list for each Sami language. The stopword lists are black-lists, words that you don't want. Every now and then, words you want sneak into a stopword list. Adding it to a red-list makes sure it won't end up in the finished stopword list.
+
+* [ ] Verifying lists and generating redlists
+  Need help to generate redlists so the lists can be cleaned and cut off.
 
 ### Help needed
 

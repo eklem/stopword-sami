@@ -1,14 +1,15 @@
 {
   "name": "stopword-sami",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Sami stopword lists (South-, Lule- and North Sami) for natural language processing. Code to create and refine them. Examples usage could be search engines and machine learning.",
   "directories": {
     "lib": "stopwords"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "crawlIds": "node ./scripts/id-crawling.js",
-    "crawlContent": "node ./scripts/content-crawling.js"
+    "crawlIds": "node ./scripts/id-crawling.mjs",
+    "crawlContent": "node ./scripts/content-crawling.mjs",
+    "calcStopwords": "node ./scripts/stopword-generating.js"
   },
   "repository": {
     "type": "git",
