@@ -1,5 +1,740 @@
 [
   {
+    "id": "1.15907958",
+    "unixTime": 1648217168000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907857",
+    "unixTime": 1648213711000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907834",
+    "unixTime": 1648213317000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907827",
+    "unixTime": 1648212768000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907590",
+    "unixTime": 1648205548000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907464",
+    "unixTime": 1648201163000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907340",
+    "unixTime": 1648200832000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907211",
+    "unixTime": 1648195924000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15907209",
+    "unixTime": 1648188341000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906932",
+    "unixTime": 1648148902000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906745",
+    "unixTime": 1648138945000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906730",
+    "unixTime": 1648136293000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906467",
+    "unixTime": 1648132669000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906441",
+    "unixTime": 1648127048000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906357",
+    "unixTime": 1648126297000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906348",
+    "unixTime": 1648124661000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906132",
+    "unixTime": 1648119338000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906083",
+    "unixTime": 1648117883000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15906000",
+    "unixTime": 1648124426000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905686",
+    "unixTime": 1648112415000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905666",
+    "unixTime": 1648112814000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905661",
+    "unixTime": 1648104263000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905368",
+    "unixTime": 1648062608000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905314",
+    "unixTime": 1648059136000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905256",
+    "unixTime": 1648058396000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15905001",
+    "unixTime": 1648054850000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904848",
+    "unixTime": 1648043365000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904708",
+    "unixTime": 1648037756000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904703",
+    "unixTime": 1648036463000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904612",
+    "unixTime": 1648034052000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904308",
+    "unixTime": 1648026931000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904140",
+    "unixTime": 1648023100000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904137",
+    "unixTime": 1648019609000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15904119",
+    "unixTime": 1648018727000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15903643",
+    "unixTime": 1647967870000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15903476",
+    "unixTime": 1647961089000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15903420",
+    "unixTime": 1647958016000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15903343",
+    "unixTime": 1647956460000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15903300",
+    "unixTime": 1647954868000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15903273",
+    "unixTime": 1647953998000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902940",
+    "unixTime": 1647942842000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902916",
+    "unixTime": 1647952150000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902734",
+    "unixTime": 1647941589000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902685",
+    "unixTime": 1647935085000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902684",
+    "unixTime": 1647932387000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902399",
+    "unixTime": 1647888019000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902374",
+    "unixTime": 1647887706000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902331",
+    "unixTime": 1647885353000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15902184",
+    "unixTime": 1647874520000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901976",
+    "unixTime": 1647871112000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901967",
+    "unixTime": 1647868992000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901863",
+    "unixTime": 1647866820000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901651",
+    "unixTime": 1647862619000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901630",
+    "unixTime": 1647859307000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901442",
+    "unixTime": 1647858759000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901275",
+    "unixTime": 1647854002000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15901261",
+    "unixTime": 1647846090000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900944",
+    "unixTime": 1647793489000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900680",
+    "unixTime": 1647780932000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900643",
+    "unixTime": 1647775628000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900638",
+    "unixTime": 1647772020000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900562",
+    "unixTime": 1647771861000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900560",
+    "unixTime": 1647766613000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15900004",
+    "unixTime": 1647701734000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15899989",
+    "unixTime": 1647695875000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15899854",
+    "unixTime": 1647695152000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15899853",
+    "unixTime": 1647687972000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15899759",
+    "unixTime": 1647679961000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898928",
+    "unixTime": 1647614862000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898400",
+    "unixTime": 1647600789000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898340",
+    "unixTime": 1647594885000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898252",
+    "unixTime": 1647596123000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898195",
+    "unixTime": 1647592120000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898167",
+    "unixTime": 1647589274000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898097",
+    "unixTime": 1647586008000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898087",
+    "unixTime": 1647585583000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15898080",
+    "unixTime": 1647584231000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15897141",
+    "unixTime": 1647522119000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15897120",
+    "unixTime": 1647522262000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15896397",
+    "unixTime": 1647504814000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15896394",
+    "unixTime": 1647503438000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15896329",
+    "unixTime": 1647499997000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15896278",
+    "unixTime": 1647496931000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895970",
+    "unixTime": 1647496570000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895499",
+    "unixTime": 1647437982000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895448",
+    "unixTime": 1647437697000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895429",
+    "unixTime": 1647435668000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895360",
+    "unixTime": 1647434352000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895301",
+    "unixTime": 1647435643000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15895188",
+    "unixTime": 1647429802000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894942",
+    "unixTime": 1647432068000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894835",
+    "unixTime": 1647419687000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894826",
+    "unixTime": 1647419682000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894761",
+    "unixTime": 1647421935000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894696",
+    "unixTime": 1647416459000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894690",
+    "unixTime": 1647412508000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15894680",
+    "unixTime": 1647411975000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893585",
+    "unixTime": 1647343098000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893579",
+    "unixTime": 1647343025000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893330",
+    "unixTime": 1647342882000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893324",
+    "unixTime": 1647336118000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893316",
+    "unixTime": 1647336001000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893069",
+    "unixTime": 1647335803000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15893066",
+    "unixTime": 1647325584000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.15892032",
+    "unixTime": 1647259756000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
     "id": "1.15891986",
     "unixTime": 1647257056000,
     "languageId": "1.13572949",
