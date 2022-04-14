@@ -28,6 +28,7 @@ En stoppordliste er en liste med typiske stoppord for et gitt formål. Formålet
 * En søkemotor
 * En chatbot
 * En eller annen form for maskinlæring basert på tekstlig innhold
+* Plagiat-identifisering
 
 ### Hvorfor er det viktig å kunne identifisere stoppord?
 For å ta en søkemotor som eksempel. Det er to hovedårsaker til at fjerning av stoppord er viktige for en søkemotor.
@@ -36,6 +37,9 @@ For å ta en søkemotor som eksempel. Det er to hovedårsaker til at fjerning av
 2. Når du søker i en søkemotor vil du ha tilbake de mest relevante treffene. Vanlig er å tillate OR-søk. Resultatet blir da dokumenter med ett eller flere søkeord i seg. Er ett av søkeordene et typisk stoppord og dette ikke er fjernet vil du få veldig mange unødvendige svar fra søkemotoren. Det gir en dårlig brukeropplevelse.
 
 For en chatbot er det viktig å skjønne hovedessensen av det som sies/skrives til den. Da hjelper det å fjerne alle ord som inneholder lite informasjon. Mye av det samme gjelder for maskinlæring basertpå tekstlig innhold.
+
+
+### Delmål
 
 
 
