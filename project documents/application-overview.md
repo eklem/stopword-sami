@@ -207,7 +207,8 @@ Tidsbruk:
 * Bloggpost om prosjektet og hva det ferdige resultatet betyr.
   (6)
 
-Totalt: 46 timer * 1200 kr/t + MVA = 68448 kr
+Totalt: 46 timer * 1200 kr/t + MVA = 68448 kr.
+
 Vi søker derfor om 68448 kroner i støtte til prosjektet.
 
 Fra før av har Knowit finanisert 44 timer med utvikling av [nrk-sapmi-crawler](https://github.com/eklem/nrk-sapmi-crawler) og [stopword-sami](https://github.com/eklem/stopword-sami) i tidsrommet desember 2021 - april 2022. I tillegg til kommer 50 - 100 timer egeninnsats fra Espen Klem.
