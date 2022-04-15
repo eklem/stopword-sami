@@ -7,7 +7,7 @@ Prosjektets målsettig er å kunne generere gode stoppordlister for nordsamisk, 
 ### Hva er en stoppordliste og hvordan kan den bedre digitale løsninger?
 Stoppord er en svartelisting av ord. Dette er ord du ikke ønsker å bruke i digital analyse av en tekst.
 
-Stoppord er ord som brukes ofte og har lite meningsbærende innhold. De er derfor lite egnet til bruk i digital tekstanalyse. Eksempler fra norsk kan være "og", "eller", "men", "for", "å", "en", "ei", "et", men også veldig mange andre ord. Det finnes ingen universell eller definitiv liste over stoppord for et gitt språk. Ei heller gitte regler for hvordan identifisere dem. Hovedreglen er uansett at substantiver og de fleste verb ikke skal med i en stoppordsliste.
+Stoppord er ord som brukes ofte og har lite meningsbærende innhold. De er derfor lite egnet til bruk i digital tekstanalyse. Eksempler fra norsk kan være "og", "eller", "men", "for", "å", "en", "ei", "et", men også veldig mange andre ord. Det finnes ingen universell eller definitiv liste over stoppord for et gitt språk. Ei heller gitte regler for hvordan identifisere dem. Hovedregelen er uansett at substantiver og de fleste verb ikke skal med i en stoppordsliste.
 
 En stoppordliste er en liste med typiske stoppord for et gitt formål. Formålet kan være:
 * En søkemotor
