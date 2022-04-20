@@ -150,7 +150,7 @@ Alle språk i bruk endrer seg over tid. Derfor har prosjektet også kode for å 
 
 Prosjektet har liten verdi i prosjektperioden, men vil kunne ha stor verdi etter at prosjektet er over, i lang tid framover.
 
-Espen Klem har siden 2017 vedlikeholdt og utviklet kildekoden til programvare-modulen [stopword](https://github.com/fergiemcdowall/stopword), som i skrivende stund inneholder stoppordslister for 62 språk. Den [har cirka 25000 nedlastinger i uken på NPM - Node Package Manager](https://www.npmjs.com/package/stopword), i tillegg til tilgjengelighet via andre kanaler. Bruken her er som en del av søkemotorer, chatbot'er, generell maskinlæring, sentimentanalyser, duplikatanalyser, nøkkelord-uthenting mm.
+Espen Klem har siden 2017 vedlikeholdt og utviklet kildekoden til programvare-modulen [stopword](https://github.com/fergiemcdowall/stopword), som i skrivende stund inneholder stoppordslister for 62 språk. Den [har cirka 25000 nedlastinger i uken på NPM - Node Package Manager](https://www.npmjs.com/package/stopword), i tillegg til tilgjengelighet via andre kanaler. Bruken her er som en del av søkemotorer, chatbot'er, generell maskinlæring, sentimentanalyser, duplikatanalyser, spam-filter, nøkkelord-uthenting mm.
 
 ## Beskrivelse av hvordan likestillingsperspektivet ivaretas i prosjektet
 
