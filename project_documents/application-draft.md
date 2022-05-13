@@ -5,7 +5,7 @@
 Prosjektets målsettig er å kunne generere gode stoppordlister for nordsamisk, lulesamisk og sørsamisk under en åpen kildekode-lisens for alle som vil til å benytte seg av. Dette så hvem som helst skal kunne lage gode søkemotorer for de samiske språkene nordsamisk, lulesamisk og sørsamisk.
 
 ### Hva er en stoppordliste og hvordan kan den bedre digitale løsninger?
-Stoppord er en svartelisting av ord. Dette er ord du ikke ønsker å bruke i digital analyse av en tekst.
+`stopword-sami` blir enkle ordbøker for dataprogrammer. Stoppord er en svartelisting av ord. Dette er ord du ikke ønsker å bruke i digital analyse av en tekst og gir dataprogrammer enkel men kraftig språkforståelse.
 
 Stoppord er ord som brukes ofte og har lite meningsbærende innhold. De er derfor lite egnet til bruk i digital tekstanalyse. Eksempler fra norsk kan være "og", "eller", "men", "for", "å", "en", "ei", "et", men også veldig mange andre ord. Det finnes ingen universell eller definitiv liste over stoppord for et gitt språk. Ei heller gitte regler for hvordan identifisere dem. Hovedregelen er uansett at substantiver og de fleste verb ikke skal med i en stoppordsliste.
 
@@ -14,6 +14,7 @@ En stoppordliste er en liste med typiske stoppord for et gitt formål. Formålet
 * En chatbot
 * En eller annen form for maskinlæring basert på tekstlig innhold
 * Plagiat-identifisering
+* Automatisk finne mulige nøkkelord i tekst som har en tittel og brødtekst
 
 ### Hvorfor er det viktig å kunne identifisere stoppord?
 For å ta en søkemotor som eksempel. Det er to hovedårsaker til at fjerning av stoppord er viktige for en søkemotor.
