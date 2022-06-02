@@ -53,7 +53,7 @@ Also, to generate/train stopword lists, we need text sources. For Northern Sami 
 
 ## Applications: Markdown to Word/PDF conversion
 
-So far, Pandoc has worked well:
+So far, [Pandoc](https://pandoc.org/getting-started.html#step-6-converting-a-file) has worked well:
 
 ```console
 pandoc application-draft-02.md -f markdown -s -o application-draft.docx
