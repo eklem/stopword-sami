@@ -12,6 +12,9 @@ WIP! Project to generate stopword lists for all the Sami languages:
 
 When the quality of the stopword lists are good enough they will be added to the [stopword](https://github.com/fergiemcdowall/stopword) module. Northern Sami will most likely be the first that reaches good enough quality. Then you'll have Lule Sami and South Sami.
 
+## Why stopword lists for Sami languages?
+To i.e. be able to create good search engines or do machine learning based on content written in the different Sami langauges.
+
 ## Install
 If you can avoid crawling and just use the content from this repo, that's good. That means less unnecessary trafick on nrk.no. Content is here and will be updated every month, or more often if you need it and published to npm.
 
@@ -48,5 +51,10 @@ We need help to [verify generated list](https://github.com/eklem/stopword-sami/i
 
 Also, to generate/train stopword lists, we need text sources. For Northern Sami we will get what we need, but for Lulesami and South Sami it's a little thin. Maybe we just have to wait for NRK to create more content. For the rest of the languages, we have no source so far. If you know of a data-set or a source to generate a data set, please [give us a hint](https://github.com/eklem/stopword-sami/issues/new)!
 
-## Why stopword lists for sami languages?
-To i.e. be able to create good search engines or do machine learning based on content written in the different sami langauges.
+## Applications: Markdown to Word/PDF conversion
+
+So far, Pandoc has worked well:
+
+```console
+pandoc application-draft-02.md -f markdown -s -o application-draft.docx
+```

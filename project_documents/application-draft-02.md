@@ -129,12 +129,13 @@ Prosjektet har lav risiko. Espen Klem har tidligere gjennomført lignende prosje
 
 1. Det gjenstår å finne to ressurser, en som kan lulesamisk og en som kan sørsamisk. Nivået trenger ikke være høyere enn for eksempel de fleste nordmenns engelsknivå. Vi kommer til å finne dem, men det kan ta lengre tid en planlagt.
 2. Kvaliteten på tekstkilden kan være for lav. Korte tekster er ikke ideelt fordi den ofte får et høyere andel av meningsbærende ord. For å kompensere for dette bruker vi rødlister, og det er sannsynligvis nok. At ikke alle ord som kan defineres som stoppord ikke skulle komme med er ikke et problem så lenge mange nok faktisk gjør det.
-3. Mengden tekstinnhold kan være for lav. Dette gjelder lulesamisk og sørsamisk fordi antall artikler vi har tilgjengelig per dato er henholdsvis rundt 600 og 400. For nordsamisk er tallet ca. 1800 og vil være over 4000 i løpet av året, og rundt 8000 i løpet av neste år. Dette er grunnen til at vi legger opp til såpass mange timer brukt på å finne fram til ord som vi rødlister. Tallet på artikler som trengs har grunnlag i [tidligere analyse av bruk av Wikipedia for å generere en liste over norske stoppord](https://medium.com/norch/an-analysis-on-using-wikipedia-to-generate-stopword-lists-aac30bd38f9c), men kan kompenseres med å ha laget store rødlister.
+3. Mengden tekstinnhold kan være for lav. Dette gjelder særlig lulesamisk og sørsamisk fordi antall artikler vi har tilgjengelig per dato er henholdsvis rundt 600 og 400. For nordsamisk er tallet ca. 1800 og vil være over 4000 i løpet av året, og rundt 8000 i løpet av neste år. Dette er grunnen til at vi legger opp til såpass mange timer brukt på å finne fram til ord som vi rødlister. Tallet på artikler som trengs har grunnlag i [tidligere analyse av bruk av Wikipedia for å generere en liste over norske stoppord](https://medium.com/norch/an-analysis-on-using-wikipedia-to-generate-stopword-lists-aac30bd38f9c), men kan kompenseres med å ha laget store rødlister.
+4. NRK kan tenke seg å endre oppbygging av siden vi i dag henter tekst-innhold fra. Skjer dette må [nrk-sapmi-crawler](https://github.com/eklem/nrk-sapmi-crawler) skrives noe om, men vil ikke utgjøre en stor utfordring.
 
 
 ## Beskrivelse av hvordan prosjektet får effekt utover prosjektperiode
 
-Ved å publisere stoppordslistene med en av de mest åpne kildekode-lisensene, MIT License, sikrer vi at alle som vil kan bruke stoppordlisten til hva de vil i all framtid: [stopword-sami sin MIT lisens](https://github.com/eklem/stopword-sami/blob/trunk/LICENSE).
+Ved å publisere stoppordslistene med en av de mest åpne kildekode-lisensene, MIT License, sikrer vi at alle som vil kan bruke stoppordlisten til hva de vil i all framtid: [stopword-sami sin MIT lisens](https://github.com/eklem/stopword-sami/blob/trunk/LICENSE). Alle står fritt til å komme med bidrag til prosjektet, men kanskje aller viktigst: Alle står fritt til å bruke koden i sine egne prosjekter eller å kopiere prosjektet for å fortsette utvikling i egen, ønsket retning. Dette gjelder både åpen og lukket kildekode, vederlagsfritt.
 
 Alle språk i bruk endrer seg over tid. Derfor har prosjektet også kode for å oppdatere listene etter som nytt innhold blir skrevet på NRK Sápmi. Dette gjør at vi ganske enkelt kan vedlikeholde og forbedre stoppordslistene i de neste 5 - 10 årene.
 
@@ -154,14 +155,12 @@ I tillegg til at stoppordslistene blir publisert på [stopword-sami](https://git
 
 Og så håper vi at [stopwords-iso](https://github.com/stopwords-iso/stopwords-iso) vil være interessert i ihvertfall nordsamisk stoppordsliste. De samiske stoppordslistene vil bli foreslått som nytt innhold til dette kodebiblioteket, men det er ikke opp til prosjektet om de blir inkludert. Grunnen til at det er sannsynlig at de bare er interessert i nordsamisk er at de følger en eldre ISO-standard for språkkoder. Denne har bare kode for nordsamisk. Modulen [`stopword` har blitt endret tidligere i år](https://github.com/fergiemcdowall/stopword/releases/tag/v2.0.0) for å kunne støtte 3-bokstavs språkkoder sånn at både nordsamisk, lulesamisk og sørsamisk skal kunne legges til.
 
-Espen Klem har meldt inn en [lyntale om prosjektet til NDC](https://ndcoslo.com/): [Sami stopwords - How far have we gotten and why does it matter?](https://sessionize.com/s/espen-klem/sami-stopwords-how-far-have-we-gotten-and-why-does/50925). Tanken er å få fortelle hvorfor vi kjører prosjektet og vise raskt hvordan det kan gi samisk språkforståelse til digitale prosjekter via demoen til kode-biblioteket [daq-proc](https://eklem.github.io/daq-proc/demo/document-processing/).
+Espen Klem har meldt inn og fått akseptert en [lyntale om prosjektet til NDC](https://ndcoslo.com/): [Sami stopwords - How far have we gotten and why does it matter?](https://ndcoslo.com/agenda/lightning-talks-friday-00i0/0wb2qeithp9), september 2022. Tanken er å få fortelle hvorfor vi kjører prosjektet og vise raskt hvordan det kan gi samisk språkforståelse, samt en kjapp demo.
 
 ## Fullstendig budsjett som viser alle kostnadene og finansieringsplan
 
 Tidsbruk:
 
-* Innmelding av lyntale om prosjektet til NDC
-  (3 timer)
 * Gjennomgang av innhold hentet fra NRK og luke ut kort-artikler med norsk tekst.
   (4 timer)
 * Finne mennesker som kan lulesamisk og sørsamisk - ansvarlige for språkforståelsen. For nordsamisk har vi allerede en internt som kan bistå - Levi Sørum.
@@ -181,6 +180,8 @@ Tidsbruk:
 * Publisere stoppordslistene på [stopword-sami](https://github.com/eklem/stopword-sami)
   (1 time)
 * Generere tester og publisere stoppordslistene på [stopword](https://github.com/fergiemcdowall/stopword)
+  (3 timer)
+* Forberede lyntale til NDC Oslo.
   (3 timer)
 * Bloggpost om prosjektet og hva det ferdige resultatet betyr.
   (6)
