@@ -36,7 +36,7 @@ npm run crawlIds && npm run crawlContent && npm run calcStopwords
 
 
 
-* [x] Crawl content
+* [x] Crawl content (work in progress)
   When lists of enough content, and the nrk-sapmi-crawler also can crawl documents, crawl the actual documents
 
 * [X] Start training stopword lists
@@ -44,6 +44,16 @@ npm run crawlIds && npm run crawlContent && npm run calcStopwords
 
 * [ ] Verifying lists and generating redlists
   Need help to generate redlists so the lists can be cleaned and cut off.
+
+* [ ] Decide cutoff. How many words to keep in each list.
+
+* [ ] Add lists that have beta quality to [stopword](https://github.com/fergiemcdowall/stopword/) module.
+
+* [ ] Update [daq-proc](https://github.com/eklem/daq-proc) and [daq-proc demo](https://eklem.github.io/daq-proc/demo/document-processing/) to showcase new stopword lists.
+
+* [ ] Lightning talk at NDC Oslo
+
+* [ ] Blog posts to market lits
 
 ### Help needed
 
