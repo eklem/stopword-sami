@@ -159,7 +159,13 @@ Espen Klem har meldt inn og fått akseptert en [lyntale om prosjektet til NDC](h
 
 ## Fullstendig budsjett som viser alle kostnadene og finansieringsplan
 
-### Tidsbruk:
+### Finansieringsplan
+
+* 73500 kroner i tilskudd fra Sametinget
+
+Dette er ment å dekke resterende kostnader i prosjektet som utgjør 49 timer. Det er ingen andre kostnader tilknyttet prosjektet.
+
+### Gjenstående tidsbruk
 
 * Gjennomgang av innhold hentet fra NRK og luke ut kort-artikler med norsk tekst.
   (4 timer)
@@ -188,6 +194,7 @@ Espen Klem har meldt inn og fått akseptert en [lyntale om prosjektet til NDC](h
 
 Totalt: 49 timer * 1200 kr/t + MVA = 73500 kr.
 
-Vi søker derfor om 73500 kroner i støtte til prosjektet.
+
+### 6.2	Tidligere investering i prosjektet
 
 Fra før av har Knowit finansiert 44 timer med utvikling av [nrk-sapmi-crawler](https://github.com/eklem/nrk-sapmi-crawler) og [stopword-sami](https://github.com/eklem/stopword-sami) i tidsrommet desember 2021 - april 2022. Dette ved at Espen Klem har brukt av fagtid for å utvikle løsningen. I tillegg kommer 50 - 100 timer egeninnsats fra Espen Klem.
