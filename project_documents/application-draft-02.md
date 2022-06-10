@@ -159,7 +159,7 @@ Espen Klem har meldt inn og fått akseptert en [lyntale om prosjektet til NDC](h
 
 ## Fullstendig budsjett som viser alle kostnadene og finansieringsplan
 
-Tidsbruk:
+### Tidsbruk:
 
 * Gjennomgang av innhold hentet fra NRK og luke ut kort-artikler med norsk tekst.
   (4 timer)
