@@ -1,6 +1,6 @@
 {
   "name": "stopword-sami",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "description": "Sami stopword lists (North-, Lule- and South Sami) for natural language processing. Code to create and refine them. Examples usage could be search engines and machine learning.",
   "directories": {
     "lib": "stopwords"

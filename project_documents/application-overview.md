@@ -17,12 +17,12 @@ https://sametinget.no/stipend-og-tilskudd/tilskudd/sprak/tilskudd-til-samiske-sp
 
 ## New version:
 Sametingets tilskuddsportal skal benyttes for innsending av søknad.
-* [ ] Fullstendig prosjektbeskrivelse må være vedlagt søknaden.
-* [ ] Fullstendig budsjett som viser kostnadsoverslag og finansieringsplan må være vedlagt søknaden.
+* [x] Fullstendig prosjektbeskrivelse må være vedlagt søknaden.
+* [x] Fullstendig budsjett som viser kostnadsoverslag og finansieringsplan må være vedlagt søknaden.
 ~~ * [ ] Ved søknad om oversetting eller tilpasning av applikasjoner til samisk skal kontrakt med rettighetshaver foreligge. ~~
 ~~ * [ ] Kursplan for samiskkurs må være vedlagt søknaden. ~~
 ~~ * [ ] Ved søknad til grenseoverskridende språksamarbeid, skal samarbeidsinstitusjon/-bedrift oppgis. ~~
-* [ ] Den som signerer søknaden, må ha fullmakt til å forplikte foretaket/institusjonen.
+* [x] Den som signerer søknaden, må ha fullmakt til å forplikte foretaket/institusjonen.
 
 ### For applications:
 * [ ] Når applikasjonen utgis, skal det publiseres i offentlige medier.
