@@ -42,6 +42,10 @@ npm run crawlIds && npm run crawlContent && npm run calcStopwords
 * [X] Start training stopword lists
   Run the `stopword-trainer` on the text that is crawled. From this we'll ask for help to manually verify the lists and also come with words to add to a red-list for each Sami language. The stopword lists are black-lists, words that you don't want. Every now and then, words you want sneak into a stopword list. Adding it to a red-list makes sure it won't end up in the finished stopword list.
 
+* [X] Application for funding last part of the project.
+
+* [ ] Find people that knows Lule- and South Sami languages to verify lists. North Sami already covered.
+
 * [ ] Verifying lists and generating redlists
   Need help to generate redlists so the lists can be cleaned and cut off.
 
