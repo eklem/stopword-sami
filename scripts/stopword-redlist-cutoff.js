@@ -4,12 +4,12 @@ const wnn = require('words-n-numbers')
 const swt = require('stopword-trainer')
 
 const northSami = {
-  dataset: '../datasets/content.northSami.json',
+  stopwordsCalculation: '../stopwords/stopword-sme-calculation.json',
   stopwords: '../stopwords/stopword-sme.json',
-  stopwordsCalc: '../stopwords/stopword-sme-calculation.json',
+  redList: '../redlists/'
   options: {
-    redList: '../redlists/redlist.northSami.json',
-    cutOff: 25
+    redList: [],
+    cutOff: 200
   }
 }
 
@@ -18,8 +18,8 @@ const luleSami = {
   stopwords: '../stopwords/stopword-smj.json',
   stopwordsCalc: '../stopwords/stopword-smj-calculation.json',
   options: {
-    redList: '../redlists/redlist.luleSami.json',
-    cutOff: 10
+    redList: [],
+    cutOff: 200
   }
 }
 
@@ -28,8 +28,8 @@ const southSami = {
   stopwords: '../stopwords/stopword-sma.json',
   stopwordsCalc: '../stopwords/stopword-sma-calculation.json',
   options: {
-    redList: '../redlists/redlist.southSami.json',
-    cutOff: 10
+    redList: [],
+    cutOff: 200
   }
 }
 
@@ -71,16 +71,9 @@ async function countWordsNow (dataset, stopwordsFile, stopwordsCalcFile, options
   // Calculating stopwordiness
   swt.stopwordienessCalc(wordsCounted)
 
-  const stopwordsCalcFileName = (path.resolve(__dirname, stopwordsCalcFile))
-  await writeFile(stopwordsCalcFileName, JSON.stringify(wordsCounted, null, 2))
+  const fileName = (path.resolve(__dirname, stopwordsCalcFile))
 
-
-  // Removing redlisted words and cutOff
-  let redlist = await readIfExists(options.redList)
-  const stopwords = swt.getStopwords(wordsCounted.words, redlist, options.cutOff)
-
-  const stopwordsFileName = (path.resolve(__dirname, stopwordsFile))
-  await writeFile(stopwordsFileName, JSON.stringify(stopwords, null, 2))
+  await writeFile(fileName, JSON.stringify(wordsCounted, null, 2))
 }
 
 async function readIfExists (fileName) {
