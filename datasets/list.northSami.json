@@ -1,7 +1,42 @@
 [
   {
+    "id": "1.16050845",
+    "unixTime": 1658990859000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.16050809",
+    "unixTime": 1658989374000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.16050807",
+    "unixTime": 1658987399000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.16050193",
+    "unixTime": 1658924133000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
     "id": "1.16050098",
     "unixTime": 1658918801000,
+    "languageId": "1.13572949",
+    "languageName": "Davvisámegillii",
+    "crawled": true
+  },
+  {
+    "id": "1.16049978",
+    "unixTime": 1658922834000,
     "languageId": "1.13572949",
     "languageName": "Davvisámegillii",
     "crawled": true

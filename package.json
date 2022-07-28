@@ -18,7 +18,7 @@
   "devDependencies": {
     "nrk-sapmi-crawler": "^0.2.0",
     "words-n-numbers": "^7.1.1",
-    "stopword-trainer": "^1.1.0"
+    "stopword-trainer": "^1.1.1"
   },
   "keywords": [
     "nlp",
