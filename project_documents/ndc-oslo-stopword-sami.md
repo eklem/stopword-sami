@@ -10,4 +10,4 @@
 
 ## Quick about myself
 
-* I have no sami relatives or ancestors. I've created stopword lists for Punjabi Gurmukhi- and Finnish language before. I'm doing this because I think it's needed.
+* I have no Sami relatives or ancestors and I don't speek or understand any of the Sami languages. I've created stopword lists for Punjabi Gurmukhi- and Finnish language before. I'm doing this because I think it's needed.
