@@ -11,3 +11,5 @@
 ## Quick about myself
 
 * I have no Sami relatives or ancestors and I don't speek or understand any of the Sami languages. I've created stopword lists for Punjabi Gurmukhi- and Finnish language before. I'm doing this because I think it's needed.
+
+* Maintained and developed the module stopword since 2017. Was my way of starting to learn JavaScript, Git, GitHub, NPM and open source development.
