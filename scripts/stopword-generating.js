@@ -19,7 +19,7 @@ const luleSami = {
   stopwordsCalc: '../stopwords/stopword-smj-calculation.json',
   options: {
     redList: '../redlists/redlist.luleSami.json',
-    cutOff: 10
+    cutOff: 100
   }
 }
 
@@ -29,7 +29,7 @@ const southSami = {
   stopwordsCalc: '../stopwords/stopword-sma-calculation.json',
   options: {
     redList: '../redlists/redlist.southSami.json',
-    cutOff: 10
+    cutOff: 100
   }
 }
 
