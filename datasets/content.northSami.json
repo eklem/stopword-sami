@@ -1,5 +1,547 @@
 [
   {
+    "id": "1.16114292",
+    "url": "https://www.nrk.no/sapmi/nyheter/nuvtta-falaldat-nissonolbmuide-porsa_ggus-1.16114292",
+    "title": "Nuvttá fálaldat nissonolbmuide Porsáŋggus",
+    "body": [
+      "Vuosárgga besset nissonolbmot Porsáŋggus nuvttá válddihit borasdávdaiskosa mánágoahtečoddagis, dieđiha Ságat áviisa. Ii ge dása leat dárbu diŋgot áiggi.",
+      "Diibmá fáhtehalle 345 nissonolbmo Norggas mánágoahtečotta borasdávdii, ja buot nissonolbmot 25 ja 69 gaskka ávžžuhuvvojit iskkahit mánágoahtečoddaga jámma.",
+      "– Hirpmástuhtti ollu nissonolbmot eai iskkat iežaset, dadjá fástadoavttir Elisabeth Nøstvold Porsáŋggus."
+    ],
+    "year": "2022",
+    "unixTime": 1663917335000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16114286",
+    "url": "https://www.nrk.no/sapmi/nyheter/rihppaskuvlaleaira-orustahtton-1.16114286",
+    "title": "Rihppaskuvlaleaira orustahtton",
+    "body": [
+      "Boahtte geasi ii šatta sámi rihppaskuvlaleaira Ruoŧa bealde. Luleju bismagoddi lea mearridan vuhtii váldit láitagiid ja buoridit dili.",
+      "Mannan geasi rihppaskuvlaleaira moitojuvvui garrasit. Váhnemiid mielas lei rihpadoaluin menddo unnán sámegiella.",
+      "Luljeu bismagoddi bálkáha dál ovddeš leairahoavdda ja Ruoŧa girku sámi ráđi ságadoalli, Nils-Johan Labba, jođihit rihppaskuvlla nuppástuhttima nu ahte šattašii fas sámi rihppaskuvlaleaira 2024 geasi."
+    ],
+    "year": "2022",
+    "unixTime": 1663915016000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16114252",
+    "url": "https://www.nrk.no/sapmi/nyheter/rihppaskuvlaleaira-orustahtto-1.16114252",
+    "title": "Rihppaskuvlaleaira orustahtto",
+    "body": [
+      "Boahtte geasi ii šatta sámi rihppaskuvlaleaira Ruoŧa bealde.",
+      "Luleju bismagoddi lea mearridan vuhtii váldit láitagiid ja buoridit dili.",
+      "Mannan geasi rihppaskuvlaleaira moitojuvvui garrasit. Váhnemiid mielas lei rihpadoaluin menddo unnán sámegiella.",
+      "Luljeu bismagoddi bálkáha dál ovddeš leairahoavdda ja Ruoŧa girku sámi ráđi ságadoalli, Nils-Johan Labba, jođihit rihppaskuvlla nuppástuhttima nu ahte šattašii fas sámi rihppaskuvlaleaira 2024 geasi.\n"
+    ],
+    "year": "2022",
+    "unixTime": 1663914761000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16114242",
+    "url": "https://www.nrk.no/sapmi/nyheter/mannan-ija-2000-eambbo-olbmo-rasttidan-raja-1.16114242",
+    "title": "Mannan ija 2000 eambbo olbmo rasttidan rájá",
+    "body": [
+      "Leat ain ollu olbmot Suoma ja Ruošša rádjastašuvnnain Suoma nuortamátta osiin.",
+      "Rádjagozáhus dieđiha ahte 2000 eambbo olbmo rasttidedje rájá Ruoššas Supmii bearjadat čuovganeapmái go ovddit ija.",
+      "Lassáneapmi vuolgá das go Ruošša mobilisere 300.000 eambbo soalddáha Ukrainai.",
+      "Suoma eiseválddit ja mediaid fakta-iskit dadjet dattege ahte ii leat duohta ahte stuorra olmmoššáhkit vurdet beassat Supmii."
+    ],
+    "year": "2022",
+    "unixTime": 1663912021000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16114234",
+    "url": "https://www.nrk.no/sapmi/nyheter/fylkkageaidnu-889-gitta-1.16114234",
+    "title": "Fylkkageaidnu 889 gitta",
+    "body": [
+      "Geađgeuđas lea fierran fylkkageainnu 889 ala Muorrala ja Ávanuori gaskkas Finnmárkkus. Dán dieđiha Stáhta geaidnodoaimmahat. Njirrama geažil lea geaidnu gitta. Gaskabeaiáiggiid mearriduvvo goas geaidnu sáhttá rahppot."
+    ],
+    "year": "2022",
+    "unixTime": 1663910617000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16114223",
+    "url": "https://www.nrk.no/sapmi/nyheter/48-olbmo-bah__on-ja-goddon-ruo_as-1.16114223",
+    "title": "48 olbmo báhččon ja goddon Ruoŧas",
+    "body": [
+      "Dássážii dán jagi leat 48 olbmo báhččon jámas Ruoŧas. Eai goassige ovdal leat ná ollusat báhččon jámas Ruoŧas go dál. Mannan ija báhččui ja goddui nuorra almmái Kristianstadas.",
+      "Kriminalitehta ja báhčaleamit ledje stuorra áššin dán čavčča válggain Ruoŧas."
+    ],
+    "year": "2022",
+    "unixTime": 1663909868000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113876",
+    "url": "https://www.nrk.no/sapmi/nyheter/girdi_illju-huksen-biddjo-fas-johtui-1.16113876",
+    "title": "Girdišillju huksen biddjo fas johtui",
+    "body": [
+      "Guokte maŋimuš vahku ii leat Ruovatvuona girdišilljohuksemis dáhpáhuvvan mihkkige.",
+      "Sivva lea go Ildgruben siida ii lean dohkkehan huksema. Dan galggai Ruovatvuona gielda sihkkarastit ovdalgo huksen álggii.",
+      "Dál lea šiehtadus vuolláičállon Avinor ja siidda gaskka, dieđiha Avinor."
+    ],
+    "year": "2022",
+    "unixTime": 1663860031000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113564",
+    "url": "https://www.nrk.no/sapmi/nyheter/gavpogiin-leat-eanemus-nsr-lahtut-1.16113564",
+    "title": "Gávpogiin leat eanemus NSR-lahtut",
+    "body": [
+      "Norgga Sámiid Riikkasearvvi (NSR) logut čájehit, ahte organisašuvnnas jagis 2021 ledje 1155 lahtu. Dát lea guokte eambbogo jagi ovdal.",
+      "Stuorámus báikkálašsearvi lea Oslo Sámiid Searvi 128 (127) lahtuin. Nubbin stuorámus lea Romssa Sámi Searvi 111 (103) lahtuin. Goalmmádin stuorámus lea Álttá Sámiid Searvi 108 (91) lahtuin.",
+      "Buohtastahttima dihtii sáhttá namuhit, ahte Guovdageainnus leat 73 (61) ja Kárášjogas 55 (32) lahtu.",
+      "Ruođuid siste leat jagi 2020 lahttologut."
+    ],
+    "year": "2022",
+    "unixTime": 1663847709000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113545",
+    "url": "https://www.nrk.no/sapmi/nyheter/gielda-geah__ala-geasuhit-buohccidiv__ariid-1.16113545",
+    "title": "Gielda geahččala geasuhit buohccidivššáriid",
+    "body": [
+      "Nordkáhpa gielda háliida geasuhit buohccedivššáriid bálkálasáhusaiguin ja bonusiiguin, čállá Finnmarksposten.",
+      "Gieskat almmuhii gielda rabas buohccedivššárvirggiid, muhto leat ain njeallje virggi gurros.",
+      "Gielda fállá bonsusa go šiehtadus dahkko jahkái, nuvttá ruovttumátkkiid ja lasihit vuolimus bálkká, muitala Nordkáhpa gieldda dearvvašvuođa jođiheaddji Stine Kjosbakken."
+    ],
+    "year": "2022",
+    "unixTime": 1663847812000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113201",
+    "url": "https://www.nrk.no/sapmi/nyheter/ii-duohta-ahte-ollusat-aiggo_edje-supmii-1.16113201",
+    "title": "Ii duohta ahte ollusat áiggošedje Supmii",
+    "body": [
+      "Eai doala deaivása dieđut ahte ollu ruoššalaččat geahččalit beassat Supmii, dieđihit suoma rádjabolesat. Nu čilge Faktisk Verifiserbar, mii lea iskan lea go duohta mii muitaluvvo. NRK lea maid muitalan dáid boasttu dieđuid.",
+      "Greikkalaš frilansjournalista dat bijai duorastaga video Twitterii mii čájehii ollu olbmuid rájá alde vuordimin beassat Supmii Ruoššas. Mert Sasioglu suoma rádjaboles guovddážis dadjá ahte video ferte leat govviduvvon eará áiggi.",
+      "Eai Finnmárkku politiijat ge loga ollu olbmuid dál norgga-ruošša rájá alde Stuorravuovddis."
+    ],
+    "year": "2022",
+    "unixTime": 1663845871000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113183",
+    "url": "https://www.nrk.no/sapmi/nyheter/vuostalastimat-ruo__as-1.16113183",
+    "title": "Vuostálastimat Ruoššas",
+    "body": [
+      "Ollu ruošša gávpogiin leat olbmot vuostálastán maŋŋá go presideanta Putin dieđihii ahte áigot sáddet 300.000 reservesoalddáha Ukrainai.",
+      "Dát leat stuorámus demonstrašuvnnat dan rájes go Ruošša soahttái Ukrainain guovvamánus.",
+      "1.300 olbmo leat dássážii váldon gitta vuostálastimiid geažil, dieđiha olmmošvuoigatvuođa organisašuvdna AVD-info."
+    ],
+    "year": "2022",
+    "unixTime": 1663833660000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113074",
+    "url": "https://www.nrk.no/sapmi/nyheter/nubbi-sudnos-_adda-nsr-boahtte-jo_iheaddji-1.16113074",
+    "title": "Nubbi sudnos šaddá NSR boahtte jođiheaddji",
+    "body": [
+      "Norgga Sámiid Riikkasearvi (NSR) doallá riikkačoahkkima Álttás dán vahkkoloahpa, čakčamánu 23. gitta 25. beaivái.",
+      "Okta áššiin lea válljet ođđa jođiheaddji. Válgalávdegoddái leat boahtán guokte evttohusa, Beatrice Fløystad ja Vidar Andersen, čállá Ságat.",
+      "Nubbi stuorra ášši lea Fovsen-duomu čuovvoleapmi."
+    ],
+    "year": "2022",
+    "unixTime": 1663830269000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113052",
+    "url": "https://www.nrk.no/sapmi/nyheter/suopma-die_iha-eambbosiid-boahtan-ruo__as-1.16113052",
+    "title": "Suopma dieđiha eambbosiid boahtán Ruoššas",
+    "body": [
+      "Suoma rádjagozáhus dieđiha ahte mannan ija leat olusat rasttidan rájá ja boahtán Ruoššas Supmii. Dát dáhpáhuvvá maŋŋá go Ruošša gaskavahku čavgii mobiliserema. Johtolat lea dattetge unnit go vahkkoloahpa.",
+      "Stuorravuovddi rádjastašuvnnas Mátta-Várjjagis eai leat eambbosat boahtán Ruoššas Norgii, politiija gulahallanolbmo Silja Arvola dieđuid mielde."
+    ],
+    "year": "2022",
+    "unixTime": 1663833283000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16113019",
+    "url": "https://www.nrk.no/sapmi/nyheter/dahttu-gieldit-bealljemerkema-niibbiin-1.16113019",
+    "title": "Dáhttu gieldit bealljemerkema niibbiin",
+    "body": [
+      "Elliidsuodjalan organisašuvdna NOAH moaitá go boazodoalus ain bealljemerkejit misiid niibbiin. NOAH dáhttu gieldit dákkár merkema. Norgga Boazosápmelaččaid Riikkasearvvi nubbi jođiheaddji, Leif Anders Somby ii loga boazodoalus gal áigumin heaitit merkemis misiid dán árbevirolaš vuogi mielde."
+    ],
+    "year": "2022",
+    "unixTime": 1663828184000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16112974",
+    "url": "https://www.nrk.no/sapmi/nyheter/unnit-naggu-mearrabieggafamu-alde-1.16112974",
+    "title": "Unnit nággu mearrabieggafámu alde",
+    "body": [
+      "Norgga guolásteaddjiid searvi oaivvilda, ahte ii soaitte leat nu vuosteháhku hukset bieggafámu merrii go navdo. – Jus bieggafápmoindustriija dieđiha dárbbuidis doarvái bures, de lea unnit nággu guolleindustriijain mearraguovlluid alde, dadjá guolásteaddjiid organisašuvnna jođiheaddji Kåre Heggebø preassadieđáhusas. Ráđđehus lea gieskat dáhtton Norgga čázadat- ja energiijadirektoráhta gávdnat lasi guovlluid mearrabieggafámu várás."
+    ],
+    "year": "2022",
+    "unixTime": 1663824165000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16112655",
+    "url": "https://www.nrk.no/sapmi/nyheter/elliidsuodjaleaddji-moaita-arbevirola_-mearkuma-1.16112655",
+    "title": "Elliidsuodjaleaddji moaitá árbevirolaš mearkuma",
+    "body": [
+      "Elliidsuodjaleaddji ja gulahallanolmmoš NOAHs Siri Martinsen oaivvilda ahte árbevirolaš bohccomerken ferte gildojuvvot vai boazu ii galgga dárbbašit dárbbašmeahttumit gillát.",
+      "Son ákkastallá ahte árbevierru ii leat doarvái buorre ágga dasa ahte galgá joatkit árbevirolaš merkemiin.",
+      "– Lea gildojuvvon merket buot eará elliid niibin jámihanávdnasa haga, ja dat berre guoskat bohccuide maid go dain leat seamma bákčasat ja balut go eará elliiguin ge, dadjá Martinsen.",
+      "Boazosápmelaš ja Norgga boazosámiid riikasearvvi nubbijođiheaddji Leif Anders Somby ákkastallá ahte ii leat dokumenterejuvvon ahte bohccot gillájit eambbo go merke niibin go muđui.",
+      "Geahča olles ášši Dagsnytt 18is."
+    ],
+    "year": "2022",
+    "unixTime": 1663780375000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16112576",
+    "url": "https://www.nrk.no/sapmi/nyheter/die_ihit-demonstra_uvnnaid-girkonjarggas-ja-oslos-1.16112576",
+    "title": "Dieđihit demonstrašuvnnaid Girkonjárggas ja Oslos",
+    "body": [
+      "Girkonjárggas ja Oslos demonstrerejuvvo odne eahkedis čájehan dihte vuostehágu dasa ahte Ruošša joatkka sođiin Ukrainas. Maiddai Ruošša gávpogiin leat dieđihuvvon akšuvnnat."
+    ],
+    "year": "2022",
+    "unixTime": 1663778917000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16112526",
+    "url": "https://www.nrk.no/sapmi/nyheter/50.000-kroner-til-saviomonumentet-1.16112526",
+    "title": "50.000 kroner til Saviomonumentet",
+    "body": [
+      "Styret i FeFo har bevilget 50.000 kroner til Bugøyfjord Vel for restaurering av Saviomonumentet i Bugøyfjord.\n\n– John Savio er en av våre store kunstnere, og jeg er så glad for at vi kan bidra til at minnet om ham og kunsten hans lever videre, sier styreleder Máret Guhttor i FeFo."
+    ],
+    "year": "2022",
+    "unixTime": 1663774288000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16111718",
+    "url": "https://www.nrk.no/sapmi/nyheter/oslo-sami-skuvla-rahppo-1.16111718",
+    "title": "Oslo sámi skuvla rahppo",
+    "body": [
+      "Duorastaga maŋŋágaskabeaivvi rahppo Oslo sámi skuvlla almmolaččat. Diimmá čavčča fárrii sámi ossodat Kampen skuvllas Nedre Bekkelaget skuvlii ja fidnii de Oslo sámi skuvlla nama. Váile vihttalot oahppi bohtet vahkkosaččat lagasskuvllain sámi skuvlii oahppat sámegiela ja kultuvrra, sihke vuođđoskuvlla ja joatkkaskuvladásis."
+    ],
+    "year": "2022",
+    "unixTime": 1663760968000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16111477",
+    "url": "https://www.nrk.no/sapmi/nyheter/stuorradiggepolitihkkarat-samedikkis-1.16111477",
+    "title": "Stuorradiggepolitihkkárat Sámedikkis",
+    "body": [
+      "Mo sáhttá sihkkarastit ahte sámiin lea dadjamuš elfápmohuksemiin ja eará huksenáššiin. Dán galgá sámediggepresideanta ja su ráđđeaddit digáštallat go otne deaivvadit Stuorradikki energiija- ja biraskomiteain Sámedikkis. Makkár vuoigatvuođat leat eamiálbmogiin ja mo vuhtii váldit sin dárbbuid, leat fáddán."
+    ],
+    "year": "2022",
+    "unixTime": 1663748041000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16111448",
+    "url": "https://www.nrk.no/sapmi/nyheter/uhccan-aigumu_at-manaidsuodjalusa-harrai-1.16111448",
+    "title": "Uhccán áigumušat mánáidsuodjalusa hárrái",
+    "body": [
+      "Smávit gielddaid poltihkkárat orrot ballamin mánáidsuodjalusas. Dan dadjá SOS mánáidgiliid politihkalaš ráđđeaddi, Daniel Bøhn Rayner, gii lea geahčadan bellodatprográmmaid dál jagi ovdal válggaid. Smávit gielddain ledje 101 bellodatprográmmas dušše 19 prográmmas konkrehta politihkka mánáidsuodjalusa hárrái go fas stuorát gielddain lei dilli buoret. Livččii deháláš ahte báikkálaš politihkkáriin livččii áigumušat mánáidsuodjalusa hárrái, dadjá Rayner."
+    ],
+    "year": "2022",
+    "unixTime": 1663740758000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16111428",
+    "url": "https://www.nrk.no/sapmi/nyheter/njealjat-joavku-barentsguovllus-mannan-ukrainai-1.16111428",
+    "title": "Njealját joavku Barentsguovllus mannan Ukrainai",
+    "body": [
+      "Okta kompaniija ruošša Barentsguovllus lea sáddejuvvon Ukrainai soahtat. Dan dieđihit máŋggat áviissat Murmánskkas. Kompaniija boahtá Nenetsa fylkkas, nuorttabealde Murmánskka ja dasa gullet olbmot geat mieleavttus servet soahtái. Dát lea njealját joavku dán guovllus mii vuolgá Ukrainai. Ovdal leat Murmánskkas, Arkhangelskas ja Komis mannan joavkkut."
+    ],
+    "year": "2022",
+    "unixTime": 1663738997000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16111421",
+    "url": "https://www.nrk.no/sapmi/nyheter/hoavvariekti-gie_ahalla-vapstena__i-1.16111421",
+    "title": "Hoavvariekti gieđahallá Vapstenášši",
+    "body": [
+      "Lulit Norrlánda hoavvariekti lea mearridan gieđahallat Vapsten lappby ja Vapsten čearu diggeášši. Áššis lea sáhka goabbá joavku galgá beassat bargat bohccuiguin, otná čearu miellahtut vai Vapsten lappby miellahtut, geaid máttut dolin leat bargan boazodoalus dien guovllus. Vapsten lappby miellahtut dat leat stevdnen čearu. Muhto Likšjuoe diggeriekti celkkii dán geasi duomus ahte čearus dat lea boazodoallovuoigatvuohta."
+    ],
+    "year": "2022",
+    "unixTime": 1663737268000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16111066",
+    "url": "https://www.nrk.no/sapmi/nyheter/vuorrasiid-ekonomala_-dilli-1.16111066",
+    "title": "Vuorrasiid ekonomalaš dilli",
+    "body": [
+      "Olu vuorraset olbmot sáhttet vásihit ahte lagašolbmot ja váldeguoddit áitet sin ruđa ja ekonomiija geažil. Danin lea máŋgga suohkanis dál álggahan dearvvašvuođa- ja fuolahusas joavkku, mas lea namma TryggEst. TryggEst galgá hehttet, fuobmát ja gieđahallat veahkaválddi ja veahkaválddálašvuođa ollesolbmuid vuosttá geat eai nagot iežaset suddjet. Guovdageaidnulaš Sara Tornensis Bongo mielas lea dehálaš sihkkarastit iežas boahtteáiggi, ja ávžžuha earáid ge dahkat dan seamma.",
+      "Guldal jearahallama suinna dás:"
+    ],
+    "year": "2022",
+    "unixTime": 1663690464000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110782",
+    "url": "https://www.nrk.no/sapmi/nyheter/apner-for-fjerde-vaksinedose----1.16110782",
+    "title": "Åpner for fjerde vaksinedose ",
+    "body": [
+      "Bodø kommune åpner for at alle med underliggende sykdom nå kan få den fjerde dosen med koronavaksine, skriver kommunen på deres nettside.",
+      "Dette gjelder alle over 65 år, samt aldersgruppen 18 – 64 år med underliggende sykdommer. Kommunen anbefaler også en oppfriskningsdose til aldersgruppen 12 - 17 år med alvorlig grunnsykdom, og til gravide i 2. og 3. trimester."
+    ],
+    "year": "2022",
+    "unixTime": 1663684779000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110326",
+    "url": "https://www.nrk.no/sapmi/nyheter/lula-ain-ovddabealde-presideantavalggas--1.16110326",
+    "title": "Lula ain ovddabealde presideantaválggas ",
+    "body": [
+      "Brasila presideantaevttohas Luiz Inacio Lula da Silva lea joksan proseantačuoggá eanet doarjaga oaiviliskkademiin. Dál sus lea doarjja 47% ja presideanttas Jair Bolsonaros 31%, čállá Reuters.",
+      "Brasila válggat dollojit golggotmánu 2. beaivve.",
+      "Jus ii oktage evttohas olat unnimusat 50% jienain, de šaddá nubbi válgavuorru golggotmánu 30. beaivve."
+    ],
+    "year": "2022",
+    "unixTime": 1663661297000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110304",
+    "url": "https://www.nrk.no/sapmi/nyheter/sami-synonymat-appa-garvvis-1.16110304",
+    "title": "Sámi synonymat appa gárvvis",
+    "body": [
+      "Sámi synonyma-applikašuvdna lea dál almmuhuvvon. Android telefovnnaide ii leat vel gárvvis. Applikašuvnna vuođđun lea Jovnna-Ánde Vest Sámi synonymagirji mii almmuhuvvui 2005:s ja das lea vejolaš ohcat sihke váldosániid ja synonymaid. Applikašuvnna lea bargan John Anders Sikku gii «Buorre Iđit Sápmi» sáddagis muitalii mo sus bođii jurdda applikašuvnna ráhkádit.",
+      "– Muhtomin olmmoš vajálduhtte sániid ii ge dovdda sániid mearkkašumi . Ja nie jurddaša ahte galggašii synonymasátnegirjjis geahččat, ja nie mun de ožžon jurdaga ráhkadit applikašuvnna mas synonymat leat, čilge Sikku.",
+      "Guldal olles jearahallama John Anders Sikkun dás."
+    ],
+    "year": "2022",
+    "unixTime": 1663661218000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110177",
+    "url": "https://www.nrk.no/sapmi/nyheter/ilus-go-filbma-beagga-dobbelii-1.16110177",
+    "title": "Ilus go filbma beaggá dobbelii",
+    "body": [
+      "Anárlaš bagadalli Sunna Nousuniemi dokumentára «Boso mu ruovttoluotta» lea vuoitán Ruonáeatnamis Nuuk riikkaidgaskasaš filbmafestiválas (NIFF) buoremus oanehisfilmma bálkkašumi. Filbma muitala su seksuála veahkaválddis. Nousuniemi lea ilus ja giitevaš go su oanehisfilbma lea beakkehan maid eará guovlluide máilmmis go dušše Sámis."
+    ],
+    "year": "2022",
+    "unixTime": 1663657271000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110160",
+    "url": "https://www.nrk.no/sapmi/nyheter/streaika-_uohca-davimus-fylkii-1.16110160",
+    "title": "Streaika čuohcá davimus fylkii",
+    "body": [
+      "Badjel 8000 oahpaheaddji leat dál bargoheaitagis Norggas. Streaika čuohcá eanemusat Romsii ja Finnmárkui go ássiid logu ektui leat davimus fylkkas eanemus oahpaheaddjit streikemin. Nu čájehit Oahpahuslihtu logut, VG dieđuid mielde. Earret eará Hársttáin leat buot Oahpahuslihtu oahpaheaddjit nuoraid- ja joatkkaskuvllas váldon streikii."
+    ],
+    "year": "2022",
+    "unixTime": 1663653115000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110132",
+    "url": "https://www.nrk.no/sapmi/nyheter/radja-gitta-ruo__aide-1.16110132",
+    "title": "Rádjá gitta ruoššaide",
+    "body": [
+      "Estlánda, Latvia ja Litauen giddejedje vuosárgga rájáid eanaš ruoššaide. Dát mearriduvvui dán mánu álggus, ja vuosárgga rájes lea rádjá gitta. Maiddái Polen áigu giddet rájá ruoššaide."
+    ],
+    "year": "2022",
+    "unixTime": 1663652041000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110128",
+    "url": "https://www.nrk.no/sapmi/nyheter/suorganan-go-sd-lea-nubbin-stuoramus-bellodat-1.16110128",
+    "title": "Suorganan go SD lea nubbin stuorámus bellodat",
+    "body": [
+      "Sara Elvira Kuhmunen lea hirpmástuvvan Ruoŧa riikkabeaiválggaid bohtosiiguin. Sáminuora jođiheaddji lohká iežas leat suorganan go Sverige Demokraterna (SD) dál lea Ruoŧa nubbin stuorámus bellodat. – Bellodat lea iežas prinsihppaprográmmas cealkán ahte dáhttot assimilerenpolitihka ruovttoluotta, ja boaittobealguovlluid prográmmas gis lohket ahte boazodoallu hehtte ovdáneami davvi Ruoŧas, dadjá Kuhmunen."
+    ],
+    "year": "2022",
+    "unixTime": 1663651408000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16110107",
+    "url": "https://www.nrk.no/sapmi/nyheter/e-6-ala-fierran-gea_geu_as-1.16110107",
+    "title": "E-6 ala fierran geađgeuđas",
+    "body": [
+      "E-guđeš geainnu ala Unjárggas Finnmárkkus leat fierran geađggit Buollánguolbana ja Juvravuona gaskkas. Nubbi bealli geainnus lea danin gitta, dieđiha Stáhta geidnodoaimmahat. Mášiinnat leat jođus čorget geainnu."
+    ],
+    "year": "2022",
+    "unixTime": 1663649968000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16109630",
+    "url": "https://www.nrk.no/sapmi/nyheter/vuo__ogea_gi-bidjoi-guovdageainnus-1.16109630",
+    "title": "Vuođđogeađgi bidjoi Guovdageainnus",
+    "body": [
+      "Otne bidjui vuođđogeađgi ođđa Sámi Našunálateahter ja Sámi joatkkaskuvlla oktasaš vistái Guovdageainnus.",
+      "Norgga máhttoministtar Tonje Brenna ja sámediggepresideanta Silje Karine Muotka geat bijaiga vuođđogeađggi.",
+      "– Dás lea stuorra mearkkašupmi, sihke daningo dát lea visti mas sáhttá leat rámis. Dat boahtá leat rápmin sihke dán bulvii ja boahttevaš buolvvaide, muitalii máhttoministtar."
+    ],
+    "year": "2022",
+    "unixTime": 1663603240000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16109346",
+    "url": "https://www.nrk.no/sapmi/nyheter/eastadit-sami-va_i-1.16109346",
+    "title": "Eastadit sámi vaši",
+    "body": [
+      "Áiggiid čađa leat sámi valáštallit vásihan vealaheame ja vaši valáštallamiid oktavuođas.",
+      "Dál dáhtu sámi valáštallanlihttu, FA sámi bokte, iskagoahtit maid sáhttet dáhkat fuomášuhttit sámi valáštallama ja nu eastadit diekkár dáhpáhusaid. Dás gulat Fa sámi presideantta Håkan Kuorak, ja olles jearahallama Veigesáddagis otne."
+    ],
+    "year": "2022",
+    "unixTime": 1663587148000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16109046",
+    "url": "https://www.nrk.no/sapmi/nyheter/du__e-sadjasa__an-riikkabeivviide-1.16109046",
+    "title": "Dušše sadjásažžan riikkabeivviide",
+    "body": [
+      "Ii okta ge sámepolitihkkár válljejuvvon dán ge vuoru fásta áirrasin Ruoŧa riikkabeivviide. Golmmas besse sadjásažžan. Sámi kandidáhtaid gaskkas lei Birasbellodaga Henrik Blind lagamus beassat riikkabeivviide. Maiddái Sverige Demokráhtaid Robert Lund ja Guovddášbellodaga Daniel Johansson beassaba duos dás riikkabeaiáirrasin."
+    ],
+    "year": "2022",
+    "unixTime": 1663584447000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108817",
+    "url": "https://www.nrk.no/sapmi/nyheter/ilus-go-ii-lean-oaivevuorri-1.16108817",
+    "title": "Ilus go ii lean oaivevuorri",
+    "body": [
+      "Sámediggepresideanta Silje Karine Muotka dadjá geahpihit gullat go loahpalaš iskusat čájehit ahte bohccos Byrkijes Trøndelágas ii leat oaivevuorri, nu daddjon CWD-dávda. Veterinearainstituhtta loahpalašiskosat ledje negatiiva, muhto álgoiskosat čujuhedje njoammuma guvlui."
+    ],
+    "year": "2022",
+    "unixTime": 1663581220000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108697",
+    "url": "https://www.nrk.no/sapmi/nyheter/oahpaheaddjistreaika-viidu-1.16108697",
+    "title": "Oahpaheaddjistreaika viidu",
+    "body": [
+      "Otne mannet vel 1800 oahpaheaddji bargoheaitagii. Dalle leat eambbo go 8200 oahpaheaddji streaikkas. Sotnabeaivvi lei riikasoabadeaddji Mats Ruland bovden soabadallamiidda, muhto guokte tiimma maŋŋá bođii Oahpahuslihtu jođiheaddji Steffen Handal olggos čoahkkimis ja dieđihii ahte bargoheaitta joatkašuvvá."
+    ],
+    "year": "2022",
+    "unixTime": 1663574860000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108670",
+    "url": "https://www.nrk.no/sapmi/nyheter/_iehkagea_gi-biddjo-1.16108670",
+    "title": "Čiehkageađgi biddjo",
+    "body": [
+      "Otne guovtti áiggi biddjo čiehkageađgi Beaivváš sámi našunálteáhtera ja Sámi joatkka- ja boazodolloskuvlla oktasaš vistái Guovdageainnus. Sámedikki beales searvaba presideanta Silje Karine Muotka ja sámediggeráđđi Mikkel Eskil Mikkelsen."
+    ],
+    "year": "2022",
+    "unixTime": 1663571083000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108645",
+    "url": "https://www.nrk.no/sapmi/nyheter/gavnnai-don-dolo_-baktenjuohtamid-1.16108645",
+    "title": "Gávnnai don dološ báktenjuohtamid",
+    "body": [
+      "Mannan geasi lea Sámedikki arkeologa André Nilsen gávdnan máŋga duhát jagi boares báktenjuohtamiid golmma sajis Klubbonjárggas Billávuonas Porsáŋggus. Báktenjuohtamiid gaskkas gávnnai maiddái ássansajiid gitta geađgeáiggi rájes. Dát lea dego Lottos vuoiti, dadjá son ifinnmarkii. Ovdal leat sullasaš báktenjuohtamat gávdnon Skiippaluovttas Billávuonas."
+    ],
+    "year": "2022",
+    "unixTime": 1663568818000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108636",
+    "url": "https://www.nrk.no/sapmi/nyheter/oastit-guoli-baikkala_-fitnodagain-1.16108636",
+    "title": "Oastit guoli báikkálaš fitnodagain",
+    "body": [
+      "Golmma gieldda guovddášgievkkanat Davvi Suomas hálidit skáhppogoahtit guoli báikkálaš fitnodagain. Ná nannešedje guovllu ealáhusaid ja loktešedje olbmuid eallinfámu go lagaš guovlluid biepmu váldet atnui, dadjá Ohcejoga eallinfápmohoavda Tanja Lepistö. Ohcejoga, Anára ja Soađegili guovddášgievkkanat málestit earet eará bálvalusdáluide ja skuvllaide."
+    ],
+    "year": "2022",
+    "unixTime": 1663566430000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108631",
+    "url": "https://www.nrk.no/sapmi/nyheter/bohccos-ii-lean-oaivevuorri-1.16108631",
+    "title": "Bohccos ii lean oaivevuorri",
+    "body": [
+      "Sarvvis, masa balle oaivevuori leat njommon Byrkije siiddas Trøndelágas, ii lean dattetge njoammuduvvon. Nu čájehit Veterinær instituhta iskosat. Čakčamánu álggus njuvvojuvvui sarvvis mas gádde leat oaivevuori. Veterinær instituhtas leat ilus go iežaset analysavugiiguin nagadit duođaštit dákkáriid."
+    ],
+    "year": "2022",
+    "unixTime": 1663564633000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
+    "id": "1.16108630",
+    "url": "https://www.nrk.no/sapmi/nyheter/moaita-go-divrras-baggolohkan-_uohca-1.16108630",
+    "title": "Moaitá go divrras bággolohkan čuohcá",
+    "body": [
+      "Boazodoalli ja Norgga Sámedikki Guovddášbellodaga politihkkár Hans Ole Eira oaivvilda, ahte bohccuid bággolohkan váikkuha stáhtahálddašeaddji bargguide. Diimmá dálvvi anii stáhtahálddašeaddji 18.3 miljon ruvnnu lohkat ovtta orohaga bohccuid Oarje-Finnmárkkus. Badjel 12 miljon ruvnnu dán ruđas manai lohkkiide. Eira oaivvilda ge, ahte bohccuid lohkan lea gáibideaddji ja divrras. Dát čuohcá ovttaskas boazodoallái go stáhtahálddašeaddji ádjána meannudit buhtadusohcamušaid ja nu maŋŋonit maid mávssut."
+    ],
+    "year": "2022",
+    "unixTime": 1663563667000,
+    "languageName": "Davvisámegillii",
+    "languageId": "1.13572949"
+  },
+  {
     "id": "1.16107070",
     "url": "https://www.nrk.no/sapmi/nyheter/lasi-elravdnjedoarjja-vala_tallamii-ja-eaktodahtola_vuhtii-1.16107070",
     "title": "Lasi elrávdnjedoarjja valáštallamii ja eaktodáhtolašvuhtii",
