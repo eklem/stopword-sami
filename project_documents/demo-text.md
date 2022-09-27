@@ -1,22 +1,5 @@
 # Demo-text
 
-## Stopword-module
-
-### English
-```text
-what a wondeful day for the stopword module it is
-```
-
-### North Sami
-
-```text
-Title:
-Suvi West oažžu Suoma stáhta bálkkašumi 
-
-Body:
-Sámi filbmabagadalli Suvi West lea ožžon Suoma stáhta diehtojuohkinbálkkašumi su dokumentárafilmma ovddas, «Eatnameamet». Filbma čájeha Suoma stáhta sámepolitihka ja sámiid dáistaleami iežaset álbmoga ja kultuvrra ovdii, čállá Yle Sápmi.  – Dat symbolisere stuorát ášši go dan, ahte ovttaskas sápmelaš oažžu muhtun bálkkašumi. Dat baicce lea doarjumin ja čájeheamen dan, ahte suopmelaš servodagas leat ollosat geat dorjot sámi dáistaleami ja iešmearridanrievtti, dadjá Suvi West Yle Sápmái, ja lasiha: – Ja iešalddes suopmelaččat máŋgasat udnojit sápmelaččaid rivttiid, go sii beare ožžot dieđu.
-```
-
 ## Daq-proc-module
 
 ### English
@@ -26,6 +9,17 @@ Document and query processor for the browser and NodeJS
 
 Body:
 Yay! The day is here. We now have query and document processor for the browser and NodeJS. It is mostly packaging 7 modules together into distribution files.
+```
+
+### North Sami
+
+```text
+Title:
+ATV, UTV ja mopedabiilalihkuhisvuođat laskan 
+
+Body:
+Dán jagi leat geavvan ollu eanet ATV, UTV ja mopedabiilalihkuhisvuođat ovddit jagiid ektui. Dušše borgemánus gevve čieža lihkohisvuođat dákkár vuojániin. Dat lea seamma ollu go olles jagis 2020:is. Dábálaččat leat nuorat gaskal 15 ja 19 jagi ATV-lihkohisvuođain. Nu čájeha guorahallan maid Stavanger Universitehta lea dáhkan.
+Johtolatsihkkarastin nuoraide (Trafo) lea fálaldat nuorra vuddjiide, mii oččoda nuoraid smiehttat mo sii láhttejit johtolagas. Dán doaimma geavahit maiddái čuovvulit nuoraid geat leat rihkkon johtolatlága.
 ```
 
 ### North Sami
