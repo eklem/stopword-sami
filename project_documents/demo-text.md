@@ -30,5 +30,3 @@ ATV, UTV ja mopedabiilalihkuhisvuođat laskan
 Dán jagi leat geavvan ollu eanet ATV, UTV ja mopedabiilalihkuhisvuođat ovddit jagiid ektui. Dušše borgemánus gevve čieža lihkohisvuođat dákkár vuojániin. Dat lea seamma ollu go olles jagis 2020:is. Dábálaččat leat nuorat gaskal 15 ja 19 jagi ATV-lihkohisvuođain. Nu čájeha guorahallan maid Stavanger Universitehta lea dáhkan.
 Johtolatsihkkarastin nuoraide (Trafo) lea fálaldat nuorra vuddjiide, mii oččoda nuoraid smiehttat mo sii láhttejit johtolagas. Dán doaimma geavahit maiddái čuovvulit nuoraid geat leat rihkkon johtolatlága.
 ```
-
-### North Sami
