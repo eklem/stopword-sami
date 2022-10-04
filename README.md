@@ -5,10 +5,16 @@
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## What
+
 WIP! Project to generate stopword lists for all the Sami languages:
+
 * [ ] [Nordsamisk](https://snl.no/nordsamisk)
 * [ ] [Lulesamisk](https://snl.no/lulesamisk)
 * [ ] [Sørsamisk](https://snl.no/s%C3%B8rsamisk)
+
+
+### Other Sami languages that are not planned as of now, but could be if we find text sources and someone to help us verify the lists.
+
 * [ ] Kildinsamisk
 * [ ] Skoltesamisk/østsamisk
 * [ ] Enaresamisk
