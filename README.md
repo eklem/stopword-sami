@@ -1,8 +1,8 @@
 # stopword-sami
 
-[![NPM version](http://img.shields.io/npm/v/stopword-sami.svg?style=rounded)](https://npmjs.org/package/stopword-sami)
-[![NPM downloads](http://img.shields.io/npm/dm/stopword-sami.svg?style=rounded)](https://npmjs.org/package/stopword-sami) 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=rounded)](LICENSE)
+[![NPM version](http://img.shields.io/npm/v/stopword-sami.svg?style=flat)](https://npmjs.org/package/stopword-sami)
+[![NPM downloads](http://img.shields.io/npm/dm/stopword-sami.svg?style=flat)](https://npmjs.org/package/stopword-sami) 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## What
 
