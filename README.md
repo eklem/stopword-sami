@@ -13,6 +13,7 @@ WIP! Project to generate stopword lists for all the Sami languages:
 * [ ] [Sørsamisk](https://snl.no/s%C3%B8rsamisk)
 
 ## Financial support
+
 The Sami Parliament is financially supporting the project. Hooray! This will make it possible to finish the project in some months.
 
 | Sámediggi  | Sámedigge  | Saemiedigkie  |
@@ -20,7 +21,9 @@ The Sami Parliament is financially supporting the project. Hooray! This will mak
 | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20nordsamisk.png)  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20lulesamisk.png)  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20s%C3%B8rsamisk.png)  |
 
 
-## Other Sami languages that are not planned as of now, but could be if we find text sources and someone to help us verify the lists.
+## Other Sami languages
+
+These are not planned as of now, but could be if we find text sources and someone to help us verify the lists.
 
 * [ ] Kildinsamisk
 * [ ] Skoltesamisk/østsamisk
@@ -31,9 +34,11 @@ The Sami Parliament is financially supporting the project. Hooray! This will mak
 When the quality of the stopword lists are good enough they will be added to the [stopword](https://github.com/fergiemcdowall/stopword) module. Northern Sami will most likely be the first that reaches good enough quality. Then you'll have Lule Sami and South Sami.
 
 ## Why stopword lists for Sami languages?
+
 To i.e. be able to create good search engines or do machine learning based on content written in the different Sami langauges.
 
 ## Install
+
 If you can avoid crawling and just use the content from this repo, that's good. That means less unnecessary trafick on nrk.no. Content is here and will be updated every month, or more often if you need it and published to npm.
 
 ```console
@@ -41,6 +46,7 @@ npm install stopword-sami
 ```
 
 ## To crawl and calculate
+
 To get more content, you first have to get more IDs, so first the `crawlIds`-command, then the `crawlContent`-command and then the `calcStopwords`-command.
 
 ```console
