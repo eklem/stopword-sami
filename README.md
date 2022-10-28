@@ -14,9 +14,9 @@ WIP! Project to generate stopword lists for all the Sami languages:
 
 The Sami Parliament is financially supporting the project!
 
-| North Sami version | South Sami version | Lule Sami version |
-| ------------- | ------------- |
-| ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20nordsamisk.png) | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20lulesamisk.png) | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20s%C3%B8rsamisk.png) |
+| North Sami version  | South Sami version  | Lule Sami version  |
+| ------------------  | ------------------  | -----------------  |
+| ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20nordsamisk.png)  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20lulesamisk.png)  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20s%C3%B8rsamisk.png)  |
 
 
 ### Other Sami languages that are not planned as of now, but could be if we find text sources and someone to help us verify the lists.
