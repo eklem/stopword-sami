@@ -16,7 +16,9 @@ WIP! Project to generate stopword lists for all the Sami languages:
 
 The Sami Parliament is financially supporting the project. Hooray! This will make it possible to finish the project in some months.
 
-| ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20nordsamisk.png) Sámediggi  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20lulesamisk.png) Sámedigge  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20s%C3%B8rsamisk.png) Saemiedigkie  |
+| Sámediggi  | Sámedigge  | Saemiedigkie  |
+| ---------  | ---------  | ------------  |
+| ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20nordsamisk.png)  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20lulesamisk.png)  | ![The Sami Parliament](./project_documents/Sametingets%20logo%20-%20s%C3%B8rsamisk.png)  |
 
 
 ## Other Sami languages
@@ -44,7 +46,6 @@ npm install stopword-sami
 ```
 
 ## To crawl and calculate
-
 To get more content, you first have to get more IDs, so first the `crawlIds`-command, then the `crawlContent`-command and then the `calcStopwords`-command.
 
 ```console
