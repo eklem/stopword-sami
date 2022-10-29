@@ -1,6 +1,6 @@
 # stopword-sami
 
-[![NPM version](http://img.shields.io/npm/v/stopword-sami.svgflat)](https://npmjs.org/package/stopword-sami)
+[![NPM version](http://img.shields.io/npm/v/stopword-sami.svg)](https://npmjs.org/package/stopword-sami)
 [![NPM downloads](http://img.shields.io/npm/dm/stopword-sami.svg)](https://npmjs.org/package/stopword-sami) 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
