@@ -12,7 +12,7 @@ WIP! Project to generate stopword lists for all the Sami languages:
 * [ ] [Lulesamisk](https://snl.no/lulesamisk)
 * [ ] [Sørsamisk](https://snl.no/s%C3%B8rsamisk)
 
-## Financial support
+## Grant from the Sami Parliament
 
 [The Sami Parliament](https://sametinget.no/) is financially supporting the project. Hooray! This will make it possible to finish the project in some months.
 
