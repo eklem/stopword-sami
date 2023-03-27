@@ -14,7 +14,7 @@ WIP! Project to generate stopword lists for all the Sami languages:
 
 ## Grant from the Sami Parliament
 
-[The Sami Parliament](https://sametinget.no/) is financially supporting the project. Hooray! This will make it possible to finish the project in some months.
+[The Sami Parliament](https://sametinget.no/) is financially supporting the project. Hooray! This will make it possible to finish the project.
 
 | Sámediggi  | Sámedigge  | Saemiedigkie  |
 | ---------  | ---------  | ------------  |
