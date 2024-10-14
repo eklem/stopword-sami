@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "nrk-sapmi-crawler": "^0.2.1",
-    "words-n-numbers": "^7.1.1",
+    "words-n-numbers": "^9.1.2",
     "stopword-trainer": "^1.1.1"
   },
   "keywords": [

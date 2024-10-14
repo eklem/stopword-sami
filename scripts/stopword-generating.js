@@ -6,7 +6,7 @@ const swt = require('stopword-trainer')
 const northSami = {
   dataset: '../datasets/content.northSami.json',
   stopwords: '../stopwords/stopword-sme.json',
-  stopwordsCalc: '../stopwords/stopword-sme-calculation.json',
+  stopwordsCalc: '../datasets/stopword-sme-calculation.json',
   options: {
     redList: '../redlists/redlist.northSami.json',
     cutOff: 25
@@ -16,7 +16,7 @@ const northSami = {
 const luleSami = {
   dataset: '../datasets/content.luleSami.json',
   stopwords: '../stopwords/stopword-smj.json',
-  stopwordsCalc: '../stopwords/stopword-smj-calculation.json',
+  stopwordsCalc: '../datasets/stopword-smj-calculation.json',
   options: {
     redList: '../redlists/redlist.luleSami.json',
     cutOff: 100
@@ -26,7 +26,7 @@ const luleSami = {
 const southSami = {
   dataset: '../datasets/content.southSami.json',
   stopwords: '../stopwords/stopword-sma.json',
-  stopwordsCalc: '../stopwords/stopword-sma-calculation.json',
+  stopwordsCalc: '../datasets/stopword-sma-calculation.json',
   options: {
     redList: '../redlists/redlist.southSami.json',
     cutOff: 100
