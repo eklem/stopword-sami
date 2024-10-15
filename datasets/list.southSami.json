@@ -1,5 +1,488 @@
 [
   {
+    "id": "1.17076025",
+    "unixTime": 1728459526000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17073499",
+    "unixTime": 1728296331000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17073415",
+    "unixTime": 1728295172000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17070556",
+    "unixTime": 1728039865000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17070109",
+    "unixTime": 1728031541000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17065594",
+    "unixTime": 1727785682000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17059201",
+    "unixTime": 1727341798000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17058957",
+    "unixTime": 1727331169000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17058301",
+    "unixTime": 1727273570000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17057114",
+    "unixTime": 1727242883000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17055631",
+    "unixTime": 1727167717000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17054691",
+    "unixTime": 1727091509000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17054665",
+    "unixTime": 1727089174000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17054553",
+    "unixTime": 1727088399000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17053269",
+    "unixTime": 1726925559000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17046819",
+    "unixTime": 1726565773000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17045446",
+    "unixTime": 1726485550000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17045443",
+    "unixTime": 1726485171000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17044980",
+    "unixTime": 1726476095000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17044956",
+    "unixTime": 1726472421000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17044910",
+    "unixTime": 1726471911000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17044737",
+    "unixTime": 1726465529000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17044200",
+    "unixTime": 1726405705000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17020017",
+    "unixTime": 1724829764000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.17016840",
+    "unixTime": 1724656295000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16968611",
+    "unixTime": 1721238345000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16968606",
+    "unixTime": 1721226145000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16967572",
+    "unixTime": 1721193346000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16967157",
+    "unixTime": 1721142254000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16967112",
+    "unixTime": 1721140017000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16965817",
+    "unixTime": 1721066347000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16965705",
+    "unixTime": 1721054017000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16965699",
+    "unixTime": 1721049136000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16960259",
+    "unixTime": 1720616170000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16960240",
+    "unixTime": 1720613091000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16950361",
+    "unixTime": 1719990968000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16949298",
+    "unixTime": 1719923078000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16949181",
+    "unixTime": 1719917970000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16949171",
+    "unixTime": 1719915966000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16930122",
+    "unixTime": 1718712838000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16903143",
+    "unixTime": 1717001746000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16902541",
+    "unixTime": 1716993088000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16901154",
+    "unixTime": 1716905272000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16899464",
+    "unixTime": 1716818496000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16895824",
+    "unixTime": 1716542957000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16894029",
+    "unixTime": 1716456298000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16885856",
+    "unixTime": 1715850916000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16885499",
+    "unixTime": 1715841652000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16880340",
+    "unixTime": 1715585935000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16880188",
+    "unixTime": 1715579454000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16876642",
+    "unixTime": 1715237828000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16875800",
+    "unixTime": 1715169408000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16873858",
+    "unixTime": 1715078812000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16873673",
+    "unixTime": 1715076984000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16873668",
+    "unixTime": 1715071755000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16872263",
+    "unixTime": 1714996151000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16872127",
+    "unixTime": 1714987525000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16872124",
+    "unixTime": 1714982481000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16865399",
+    "unixTime": 1714475387000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16865179",
+    "unixTime": 1714472358000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16865087",
+    "unixTime": 1714467893000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16865000",
+    "unixTime": 1714466241000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16864749",
+    "unixTime": 1714459090000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16863654",
+    "unixTime": 1714384660000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16863363",
+    "unixTime": 1714383848000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16863272",
+    "unixTime": 1714374900000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16846891",
+    "unixTime": 1713290726000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16845191",
+    "unixTime": 1713196926000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
+    "id": "1.16829292",
+    "unixTime": 1712153597000,
+    "languageId": "1.13572943",
+    "languageName": "Åarjelsaemien",
+    "crawled": true
+  },
+  {
     "id": "1.16811844",
     "unixTime": 1710849781000,
     "languageId": "1.13572943",

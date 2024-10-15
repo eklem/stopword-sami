@@ -1,5 +1,670 @@
 [
   {
+    "id": "1.17079718",
+    "unixTime": 1728656243000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17077300",
+    "unixTime": 1728498778000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17073929",
+    "unixTime": 1728307108000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17069008",
+    "unixTime": 1727960519000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17050242",
+    "unixTime": 1726743702000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17042112",
+    "unixTime": 1726215627000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17042019",
+    "unixTime": 1726212749000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17042008",
+    "unixTime": 1726210255000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17039298",
+    "unixTime": 1726049233000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17028690",
+    "unixTime": 1725376048000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17026822",
+    "unixTime": 1725272049000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17021209",
+    "unixTime": 1724866586000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17017682",
+    "unixTime": 1724689788000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17008305",
+    "unixTime": 1724068620000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.17000825",
+    "unixTime": 1723549495000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16999829",
+    "unixTime": 1723469695000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16996954",
+    "unixTime": 1723226438000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16994260",
+    "unixTime": 1723056203000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16994177",
+    "unixTime": 1723055173000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16994136",
+    "unixTime": 1723050028000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16994128",
+    "unixTime": 1723047387000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16992136",
+    "unixTime": 1722960473000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16991258",
+    "unixTime": 1722882759000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16991244",
+    "unixTime": 1722880644000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16990798",
+    "unixTime": 1722879363000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16988040",
+    "unixTime": 1722604137000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16986698",
+    "unixTime": 1722520613000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16985994",
+    "unixTime": 1722517322000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16985270",
+    "unixTime": 1722437593000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16982970",
+    "unixTime": 1722337238000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16981843",
+    "unixTime": 1722261335000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16981509",
+    "unixTime": 1722244355000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16977942",
+    "unixTime": 1721915212000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16976286",
+    "unixTime": 1721829757000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16975674",
+    "unixTime": 1721817496000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16928630",
+    "unixTime": 1718633558000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16928553",
+    "unixTime": 1718630430000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16928455",
+    "unixTime": 1718629002000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16925899",
+    "unixTime": 1718381849000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16925022",
+    "unixTime": 1718352546000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16921039",
+    "unixTime": 1718117738000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16919648",
+    "unixTime": 1718051623000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16916494",
+    "unixTime": 1717767862000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16915165",
+    "unixTime": 1717693156000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16915077",
+    "unixTime": 1717688338000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16914967",
+    "unixTime": 1717683603000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16911578",
+    "unixTime": 1717522382000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16911158",
+    "unixTime": 1717507905000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16909945",
+    "unixTime": 1717433887000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16909448",
+    "unixTime": 1717430635000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16908114",
+    "unixTime": 1717318791000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16907747",
+    "unixTime": 1717257855000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16907551",
+    "unixTime": 1717253485000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16907492",
+    "unixTime": 1717237711000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16907466",
+    "unixTime": 1717232758000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16905688",
+    "unixTime": 1717148293000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16886633",
+    "unixTime": 1715870396000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16885928",
+    "unixTime": 1715869565000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16883803",
+    "unixTime": 1715773125000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16881418",
+    "unixTime": 1715616587000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16881097",
+    "unixTime": 1715612105000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16878457",
+    "unixTime": 1715363535000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16878441",
+    "unixTime": 1715362220000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16878388",
+    "unixTime": 1715361226000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16876402",
+    "unixTime": 1715199768000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16866264",
+    "unixTime": 1714506239000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16866251",
+    "unixTime": 1714503487000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16860329",
+    "unixTime": 1714128565000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16858527",
+    "unixTime": 1714047196000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16857911",
+    "unixTime": 1713969391000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16857697",
+    "unixTime": 1713968142000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16854358",
+    "unixTime": 1713796823000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16854043",
+    "unixTime": 1713787552000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16849783",
+    "unixTime": 1713450585000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16849124",
+    "unixTime": 1713431926000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16842339",
+    "unixTime": 1712939776000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16842288",
+    "unixTime": 1712937043000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16842206",
+    "unixTime": 1712932748000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16842001",
+    "unixTime": 1712929145000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16840826",
+    "unixTime": 1712855358000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16840591",
+    "unixTime": 1712853324000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16839183",
+    "unixTime": 1712773461000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16839171",
+    "unixTime": 1712757589000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16837822",
+    "unixTime": 1712690939000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16835878",
+    "unixTime": 1712593705000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16835598",
+    "unixTime": 1712591533000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16834273",
+    "unixTime": 1712488035000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16834247",
+    "unixTime": 1712486534000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16834234",
+    "unixTime": 1712484701000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16833611",
+    "unixTime": 1712406821000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16833476",
+    "unixTime": 1712391395000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16833464",
+    "unixTime": 1712389972000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16830138",
+    "unixTime": 1712230868000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16823312",
+    "unixTime": 1711543409000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
+    "id": "1.16818104",
+    "unixTime": 1711122327000,
+    "languageId": "1.13572946",
+    "languageName": "Julevsábmáj",
+    "crawled": true
+  },
+  {
     "id": "1.16811832",
     "unixTime": 1710855976000,
     "languageId": "1.13572946",
